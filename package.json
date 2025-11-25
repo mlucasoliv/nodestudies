@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/aula4/server.js"
+    "dev": "nodemon src/aula5/server.js"
   },
   "keywords": [],
   "author": "",
